@@ -1,0 +1,7 @@
+[0]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+EllipsisNotation = "da5c29d0-fa7d-589e-88eb-ea29b0a81949"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
